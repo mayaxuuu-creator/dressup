@@ -14,7 +14,7 @@
 评分公式 = 机制 v2（分母为固定"应穿件数"：连衣裙 4 / 上下装 5，空槽按不符合计）；25 件单品与三章配置 = 内容包 v1，一字不改。改数值先改文档。
 
 ## D4 · 部署与仓库（2026-10-27）
-GitHub 仓库 `mayaxuuu-creator/dressup`；Cloudflare Pages 项目名 `millennium-dressup`（dressup 太通用抢不到子域名时的备选：mayaya-dressup）。与 gemminer/jianyun/crystal-diy 同一发布路径。
+GitHub 仓库 `mayaxuuu-creator/dressup`；Cloudflare Pages 项目名 **`mayaya-dressup`**（首选 millennium-dressup 被全球占用，按本条备选启用），线上 https://mayaya-dressup.pages.dev 。与 gemminer/jianyun/crystal-diy 同一发布路径。
 
 ## D5 · 音效用 WebAudio 合成（2026-10-27）
 不引入音频文件，点击/换装/评分/解锁四种短音效全部代码合成，带静音开关（存档记住）。
